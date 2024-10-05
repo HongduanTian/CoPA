@@ -27,14 +27,6 @@ In cross-domain few-shot classification (CFC), recent works mainly focus on adap
 <img src=./illustrationfigures/gap.png/>
 </center>
 
-
-
-
-## Model Zoo
-- [Single-domain networks (one for each dataset)](https://drive.google.com/file/d/1MvUcvQ8OQtoOk1MIiJmK6_G8p4h8cbY9/view?usp=sharing)
-
-- [A single universal network (URL) learned from 8 training datasets](https://drive.google.com/file/d/1Dv8TX6iQ-BE2NMpfd0sQmH2q4mShmo1A/view?usp=sharing)
-
 ### Preparation
 ### Dependencies
 In our experiments, the main dependences required are the following libraries:

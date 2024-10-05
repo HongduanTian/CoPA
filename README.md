@@ -22,7 +22,7 @@ In cross-domain few-shot classification (CFC), recent works mainly focus on adap
 <img src=./illustrationfigures/gap.png/>
 </center>
 
-### Dependencies
+## Dependencies
 In our experiments, the main dependences required are the following libraries:
 ```
 Python 3.6 or greater (Ours: Python 3.8)
@@ -32,14 +32,14 @@ tqdm (Ours: 4.64.1)
 tabulate (0.8.10)
 ```
 
-### Dataset
+## Dataset
 - Follow [Meta-Dataset repository](https://github.com/google-research/meta-dataset) to prepare `ILSVRC_2012`, `Omniglot`, `Aircraft`, `CU_Birds`, `Textures (DTD)`, `Quick Draw`, `Fungi`, `VGG_Flower`, `Traffic_Sign` and `MSCOCO` datasets.
 
 - Follow [CNAPs repository](https://github.com/cambridge-mlg/cnaps) to prepare `MNIST`, `CIFAR-10` and `CIFAR-100` datasets.
 
 
 
-### Backbone Pretraining
+## Backbone Pretraining
 In this paper, we follow [URL](https://arxiv.org/pdf/2103.13841.pdf) and use ResNet-18 as the frozen backbone in all our experiments. For reproduction, two ways are provided:
 
 __Train your own backbone.__ You can train the ResNet-18 backbone from scratch by yourself. The pretraining mainly contains two phases: domain-specific pretraining and universal backbone distillation.
@@ -66,7 +66,7 @@ gdown https://drive.google.com/uc?id=1Dv8TX6iQ-BE2NMpfd0sQmH2q4mShmo1A && md5sum
 ```
 In this way, the backbones are donwnloaded. Please create the ```./saved_results``` directory and place the backbone weights in it. 
 
-### Evaluate CoPA
+## Evaluate CoPA
 To evaluate the CoPA, you can run:
 ```
 ./scripts/copa_pa.sh

@@ -22,7 +22,6 @@ In cross-domain few-shot classification (CFC), recent works mainly focus on adap
 <img src=./illustrationfigures/gap.png/>
 </center>
 
-### Preparation
 ### Dependencies
 In our experiments, the main dependences required are the following libraries:
 ```

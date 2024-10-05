@@ -97,7 +97,7 @@ To evaluate the __CoPA+TSA__, you can run:
 ```
 Specifically, the running command is:
 ```
-python copa_pa.py --model.name=url \
+python copa_tsa.py --model.name=url \
                   --model.dir ./url \
                   --test.type=standard \
                   --encoder.type=linear \

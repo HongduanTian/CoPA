@@ -5,7 +5,7 @@
 
 </p>
 
-This repository contains the source codes for reproducing the results of NeurIPS'24 paper: [**Mind the Gap Between Prototypes and Images in Cross-domain Finetuning**]().
+This repository contains the source codes for reproducing the results of NeurIPS'24 paper: [**Mind the Gap Between Prototypes and Images in Cross-domain Finetuning**](http://arxiv.org/abs/2410.12474).
 
 **Author List**: Hongduan Tian, Feng Liu, Zhanke Zhou, Tongliang Liu, Chengqi Zhang, Bo Han. 
 

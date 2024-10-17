@@ -1,7 +1,7 @@
 <h1 align='center'> Mind the Gap Between Prototypes and Images in Cross-domain Finetuning</h1>
 
 <p align='center'>
-<a href=""><img src="https://img.shields.io/badge/arXiv-1234.5678-b31b1b.svg" alt="Paper"></a> <a href="https://neurips.cc/"><img src="https://img.shields.io/badge/Pub-NeurIPS'24-blue" alt="Conf"></a> <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="Liscence"></a> <a href=""><img src="https://img.shields.io/badge/Slides%20-D76364" alt="Slides"></a> <a href=""><img src="https://img.shields.io/badge/Poster%20-Ffa500" alt="Poster"></a> <a href=""><img src="https://img.shields.io/badge/CN_Video%20-54b345" alt="CN_Video"></a> <a href=""><img src="https://img.shields.io/badge/EN_Video%20-54b345" alt="EN_Video"></a>
+<a href="http://arxiv.org/abs/2410.12474"><img src="https://img.shields.io/badge/arXiv-2410.12474-b31b1b.svg" alt="Paper"></a> <a href="https://neurips.cc/"><img src="https://img.shields.io/badge/Pub-NeurIPS'24-blue" alt="Conf"></a> <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="Liscence"></a> <a href=""><img src="https://img.shields.io/badge/Slides%20-D76364" alt="Slides"></a> <a href=""><img src="https://img.shields.io/badge/Poster%20-Ffa500" alt="Poster"></a> <a href=""><img src="https://img.shields.io/badge/CN_Video%20-54b345" alt="CN_Video"></a> <a href=""><img src="https://img.shields.io/badge/EN_Video%20-54b345" alt="EN_Video"></a>
 
 </p>
 
